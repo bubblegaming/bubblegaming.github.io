@@ -15,3 +15,9 @@ p {
     font-family: 'Fredoka', sans-serif;
     /* Add other styling for paragraphs here */
 }
+
+hr {
+    background-color: #007BFF; /* Blue */
+    height: 3px;
+    border: none;
+}
