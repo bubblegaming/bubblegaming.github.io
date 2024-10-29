@@ -1,0 +1,17 @@
+/* style.css is made using Gemini.google.com */
+
+/* Set the default font family to Fredoka */
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
+/* Optional: Customize headings and paragraphs */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka', sans-serif;
+    /* Add other styling for headings here */
+}
+
+p {
+    font-family: 'Fredoka', sans-serif;
+    /* Add other styling for paragraphs here */
+}
